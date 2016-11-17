@@ -32,4 +32,4 @@ I could not move shares to the new volume using the webinterface since the volum
 
 ```cp -r from_folder to_folder```
 
-Should have used screen or nohub to 
+Could have used screen or nohup to avoid it stopping when closing the ssh connection.
